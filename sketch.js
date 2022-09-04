@@ -14,8 +14,3 @@ function setup(){
 
 }
 
-function draw() {
-  
-
-        
-}
